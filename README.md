@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Vikashkumar2094
-- 👀 I’m interested in LWC salesforce development
-- 🌱 I’m currently learning salesforce
+- 👋 Hi, I’m Vikash Kumar
+- 👀 I am a Salesforce Admin
+- 🌱 I am ready to harness my problem-solving skills and coding proficiency to drive customized solutions that empower organizations to optimize their Salesforce     
+     implementations.
 - 💞️ I’m looking to collaborate on salesforce project
   
 
