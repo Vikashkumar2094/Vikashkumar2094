@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vikash Kumar
 - 👀 I am a Salesforce Admin
-- 🌱 I am ready to harness my problem-solving skills and coding proficiency to drive customized solutions that empower organizations to optimize their Salesforce     
-     implementations.
+- 🌱 I am ready to harness my problem-solving skills and coding proficiency to drive customized solutions that empower organizations to optimize their Salesforce    implementations.
 - 💞️ I’m looking to collaborate on salesforce project
   
 
